@@ -36,8 +36,30 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Articles to be inquired of vvithin the dioces of Norwich in the first visitation of the R. Reverend 
+ARTICLES TO BE INQVIRED OF VVITHIN THE DIOCES OF NORWICH: In the first Visitation of the R. Reverend
+1. The Tenour of the OATH to be Ministred to the Church-wardens, and any other of every Parish, that shall be sworne to make Presentments.
+
 #####Body#####
+
+1. Articles to be enquired of in the Dioces of Norwich, at the Visitation, holden in the yeere of our Lord, 1636.
+
+    _ Chap. 1. Concerning Religion and Doctrine.
+
+    _ Chap. 2. Concerning publike Prayer and administration of the holy Sacraments, &c.
+
+    _ Chap. 3. Concerning the Church, the furniture, and possessions thereof.
+
+    _ Chap. 4. Concerning the Ministers, Preachers, and Lecturers.
+
+    _ Chap. 5. Concerning Matrimony.
+
+    _ Chap. 6. Concerning the Church-wardens and Side-men.
+
+    _ Chap. 7. Concerning the Parishioners.
+
+    _ Chap. 8. Concerning Schoole-masters, Physitians, Chyrurgions, Midwives, and Parish-Clarkes.
+
+    _ Chap. 9. Concerning Ecclesiasticall Officers.
 
 **Types of content**
 
