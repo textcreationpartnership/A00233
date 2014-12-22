@@ -36,7 +36,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-ARTICLES TO BE INQVIRED OF VVITHIN THE DIOCES OF NORWICH: In the first Visitation of the R. Reverend
+
 1. The Tenour of the OATH to be Ministred to the Church-wardens, and any other of every Parish, that shall be sworne to make Presentments.
 
 #####Body#####
